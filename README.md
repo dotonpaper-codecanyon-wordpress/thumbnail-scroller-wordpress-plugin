@@ -1,2 +1,2 @@
 Thumbnail Scroller WordPress Plugin
-=======
+======
